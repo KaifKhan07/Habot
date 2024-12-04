@@ -1,0 +1,11 @@
+.habot_icon_contact{
+    height: 40px;
+    width: 40px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
+.habot_icon_contact img{
+    height: 100%;
+    width: 100%;
+}
